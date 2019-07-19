@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TestApiRest"
+             x:Class="TestApiRest.MainPage">
+
+    <StackLayout Padding="5,10">
+        <Label x:Name="LabelNom" TextColor="#77d065" FontSize = "20" Text="This is a label." />
+
+        
+        
+        
+        
+        
+    </StackLayout>
+
+
+
+</ContentPage>

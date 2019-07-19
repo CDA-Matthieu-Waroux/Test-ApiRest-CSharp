@@ -1,0 +1,1 @@
+c:\users\59013-01-02\source\repos\TestApiRest\TestApiRest\TestApiRest.UWP\TestApiRest.UWP.csproj;x86
